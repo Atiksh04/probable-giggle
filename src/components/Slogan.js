@@ -54,6 +54,7 @@ const SloganInput = styled.input`
     font-family: Galano-Regular;
     color: #1A181E;
     border-radius: 0.4em;
+    font-size: 1em;
 `
 const SloganInputCloseIcon = styled.img`
     height: 0.75em;

@@ -1,5 +1,7 @@
 import styled from 'styled-components';
 import Details from './Details';
+import Footer from './Footer';
+import FreeProducts from './FreeProducts';
 import Header from './Header';
 import Slogan from './Slogan';
 
@@ -15,6 +17,8 @@ export default function RootComponent(){
             <Header/>
             <Slogan/>
             <Details/>
+            <FreeProducts/>
+            <Footer/>
         </RootWrapper>
     )
 }
